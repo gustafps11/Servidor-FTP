@@ -54,3 +54,7 @@ Instalar dependência:
 
 ```bash
 pip install pyftpdlib
+
+```
+```bash
+python server-ftp.py
