@@ -85,11 +85,15 @@ Cursor
 🔹 Servidor (Python)
 
 Instalar dependência:
-
+```bash
 pip install pyftpdlib
-Executar o servidor:
+```
 
+Executar o servidor:
+```bash
 python serverFTP.py
+```
+
 ▶️ Como Executar (Cliente e Servidor) 🔹 1. Iniciar o Servidor
 
 Execute o arquivo Python
